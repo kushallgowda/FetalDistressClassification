@@ -1,5 +1,4 @@
 # FetalDistressClassification
-# Final Year Bachelor Project / Thesis Repository
 
 This repository contains all the files related to my final year bachelor's project. The project focuses on analyzing the CTU-CHB Intrapartum Cardiotocography (CTG) dataset for predictive modeling.
 
